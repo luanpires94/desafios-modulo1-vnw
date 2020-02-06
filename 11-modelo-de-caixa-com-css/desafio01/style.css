@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: blue;
+    margin: 20px;
+    border: solid 2px red;
+}
+
+.color1 {
+    background-color: chartreuse;
+    padding: 20px;
+    border: solid 2px red;
+}
+
+.color2 {
+    background-color: darkblue;
+    padding: 20px;
+    border: solid 2px red;
+}
+
+.color3 {
+    background-color: darkmagenta;
+    padding: 20px;
+    border: solid 2px red;
+}
+
+.color4 {
+    background-color: dodgerblue;
+    padding: 20px;
+    border: solid 2px red;
+}

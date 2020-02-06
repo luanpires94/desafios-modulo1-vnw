@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    position: fixed;
+    padding: 1px;
+    top: 2px;
+    left: 300px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+
+.color1 {
+    padding: 15px;
+    background-color: blue;
+    border: solid 3px black;
+}
+.color2 {
+    padding: 15px;
+    background-color: green;
+    border: solid 3px black;
+}
+.color3 {
+    padding: 15px;
+    background-color: yellow;
+    border: solid 3px black;
+}
+.color4 {
+    padding: 15px;
+    background-color: pink;  
+    border: solid 3px black;
+}
+
+/* Desafio02 Evoluindo minha página */
+
+.block-div1 {
+    width: 200px;
+    height: 250px;
+    background-color: rebeccapurple;
+}
+.block-div2 {
+    width: 200px;
+    height: 250px;
+    background-color: aqua;
+}
+.block-div3 {
+    width: 200px;
+    height: 250px;
+    background-color: brown;
+}
+.block-div4 {
+    width: 200px;
+    height: 250px;
+    background-color: gold;
+}
+.block-div5 {
+    width: 200px;
+    height: 250px;
+    background-color: grey;
+}
+.block-div6 {
+    width: 200px;
+    height: 250px;
+    background-color: royalblue;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.block-div-color {
+    display: flex;
+    justify-content: space-between;
+}
